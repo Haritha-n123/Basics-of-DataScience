@@ -1,0 +1,7 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data.
+
+    Types of Machine Learning:
+    1. Supervised learning with labaled data.
+    2. Unsupervised learning with unlabeled data.
+    3. Reinforcement learning through rewards and penalties.
+    

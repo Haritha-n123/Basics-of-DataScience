@@ -1,0 +1,7 @@
+This is the content of document one. It contains information about Python programming
+    Python programming is a versatile language used for various applications including web development, data analysis, and artificial intelligence.
+    Key features:
+    - Easy to learn and read
+    - Extensive libraries and frameworks
+    - Strong community support
+    
